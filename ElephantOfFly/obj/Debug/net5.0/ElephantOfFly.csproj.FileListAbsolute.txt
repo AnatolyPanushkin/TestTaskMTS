@@ -1,0 +1,16 @@
+D:\Projects C#\TestTaskMTS\ElephantOfFly\bin\Debug\net5.0\ElephantOfFly.exe
+D:\Projects C#\TestTaskMTS\ElephantOfFly\bin\Debug\net5.0\ElephantOfFly.deps.json
+D:\Projects C#\TestTaskMTS\ElephantOfFly\bin\Debug\net5.0\ElephantOfFly.runtimeconfig.json
+D:\Projects C#\TestTaskMTS\ElephantOfFly\bin\Debug\net5.0\ElephantOfFly.runtimeconfig.dev.json
+D:\Projects C#\TestTaskMTS\ElephantOfFly\bin\Debug\net5.0\ElephantOfFly.dll
+D:\Projects C#\TestTaskMTS\ElephantOfFly\bin\Debug\net5.0\ref\ElephantOfFly.dll
+D:\Projects C#\TestTaskMTS\ElephantOfFly\bin\Debug\net5.0\ElephantOfFly.pdb
+D:\Projects C#\TestTaskMTS\ElephantOfFly\obj\Debug\net5.0\ElephantOfFly.csproj.AssemblyReference.cache
+D:\Projects C#\TestTaskMTS\ElephantOfFly\obj\Debug\net5.0\ElephantOfFly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects C#\TestTaskMTS\ElephantOfFly\obj\Debug\net5.0\ElephantOfFly.AssemblyInfoInputs.cache
+D:\Projects C#\TestTaskMTS\ElephantOfFly\obj\Debug\net5.0\ElephantOfFly.AssemblyInfo.cs
+D:\Projects C#\TestTaskMTS\ElephantOfFly\obj\Debug\net5.0\ElephantOfFly.csproj.CoreCompileInputs.cache
+D:\Projects C#\TestTaskMTS\ElephantOfFly\obj\Debug\net5.0\ElephantOfFly.dll
+D:\Projects C#\TestTaskMTS\ElephantOfFly\obj\Debug\net5.0\ref\ElephantOfFly.dll
+D:\Projects C#\TestTaskMTS\ElephantOfFly\obj\Debug\net5.0\ElephantOfFly.pdb
+D:\Projects C#\TestTaskMTS\ElephantOfFly\obj\Debug\net5.0\ElephantOfFly.genruntimeconfig.cache
